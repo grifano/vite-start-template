@@ -1,20 +1,50 @@
-![](/src/img/seven-project.svg)
+![](/assets/Banner.jpg)
 
-### Hi 👋 we are 7-Project Team
+# Hi 👋 there!
 
-- Mentor: Daria Lyman
-- Team Lead: Serhii Orlenko
-- Scram Master: Vlad Halytskyi
-- Developers:
-  - Anastasiia Velieva
-  - Andrii Chuchak
-  - Andrii Thorenko
-  - Anton Yashchenko
-  - Igor Krasin
-  - Oksana Fedorii
+I'm a big fan of design, web development and all things tech, especially
+anything from Apple. I also love hitting the road on my bike 🚴. But nothing
+beats the times I spend with my family and my kids - they're my world!
 
-## Latest Project: YachtJet
+I'm really looking forward to sharing stories and learning new things with you
+all. Let's connect!
 
-[🔗 Design Mockup in Figma](https://www.figma.com/file/jRIYQopKXrN9adYQy22ygf/YachtJet?type=design&node-id=8101-272&mode=design&t=PQba5xm7EXm6ooq2-0)
+# Latest Project: Project Name
 
-![](/src/img/project-cover.webp)
+### Screenshot
+
+![](./assets/Banner.jpg)
+
+### Design Mockup
+
+<img src="./assets/figma-icon.svg" width="48" height="48">
+
+[🔗 Design Mockup in Figma]()
+
+### Requirements
+
+Users should be able to:
+
+- View the optimal layout for the interface depending on their device's screen
+  size
+- See hover and focus states for all interactive elements on the page
+
+### Tech Stack:
+
+- HTML;
+- CSS;
+- JavaScript;
+- Vite;
+
+### Links
+
+- Design URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+## Author
+
+- Website - [Serhii "Grifano" Orlenko](https://grifano.com)
+- Uxcel - [Design](https://app.uxcel.com/ux/EE4PBID94EEH)
+- Frontend Mentor -
+  [Web Development](https://www.frontendmentor.io/profile/SO-Grifano)
+- Twitter - [@OrlenkoSerhii](https://twitter.com/OrlenkoSerhii)
