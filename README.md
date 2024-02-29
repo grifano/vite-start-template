@@ -15,12 +15,6 @@ all. Let's connect!
 
 ![](./assets/Banner.jpg)
 
-### Design Mockup
-
-<img src="./assets/figma-icon.svg" width="48" height="48">
-
-[🔗 Design Mockup in Figma]()
-
 ### Requirements
 
 Users should be able to:
