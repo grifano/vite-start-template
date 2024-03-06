@@ -3,8 +3,7 @@
 # Hi 👋 there!
 
 So glad you've dropped by my coding corner. Here, it's all about web design,
-coding magic, and sharing bits of my life, like my love for tech, Apple gadgets,
-and cycling adventures.
+coding magic.
 
 Between coding sessions, I'm probably out cycling 🚴‍♂️ or having fun annoying my
 kids (they secretly love it😁!).
