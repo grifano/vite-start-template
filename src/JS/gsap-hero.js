@@ -1,6 +1,8 @@
 import { gsap } from 'gsap';
 import SplitType from 'split-type';
 
+// Stagging Text animation
+
 const spliteType = new SplitType('.hero-main-text');
 
 gsap.to('.word', {
