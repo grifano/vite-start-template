@@ -15,8 +15,6 @@ Happy exploring!
 
 # Latest Project: Project Name
 
-### Screenshot
-
 ![](./assets/Banner.jpg)
 
 ### Requirements
